@@ -1,4 +1,8 @@
 123
 456
 789
+<<<<<<< HEAD
 branch merge master
+=======
+branch merge
+>>>>>>> dev
