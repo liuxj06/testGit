@@ -3,3 +3,5 @@
 789
 branch merge --no-ff
 branch dev
+my reset
+bob reset
