@@ -5,3 +5,4 @@ branch merge --no-ff
 branch dev
 before sublime
 user login
+promote update file
