@@ -7,3 +7,4 @@ before sublime
 user login
 promote update file
 hj
+远程修改
