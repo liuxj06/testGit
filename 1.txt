@@ -7,8 +7,6 @@ before sublime
 user login
 promote update file
 hj
-<<<<<<< HEAD
 本地修改
-=======
 远程修改
->>>>>>> 99409dde48e8e67b5d67ac693f149623ae986666
+远程修改冲突
