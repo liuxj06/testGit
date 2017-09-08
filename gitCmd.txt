@@ -1,0 +1,11 @@
+git config
+git clone
+git pull
+git status
+git add
+git diff filename
+git commit
+git push
+git log --pretty=oneline -n
+git reflog
+git reset --hard commitId/HEAD^
