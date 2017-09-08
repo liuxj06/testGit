@@ -1,16 +1,17 @@
-git config 							配置
-git init 							初始化工作区
-git clone 							克隆远程库到本地工作区
-git pull 							从远程库拉取并更新工作区
-git status 							查看状态
-git add . 							将工作区修改添加到缓存区
-git diff filename 					比较工作区与缓存区文件的不同之处
-git diff --cached filename 			比较缓存区与提交分支上文件的不同
-git diff  HEAD -- filename 			比较工作区与提交分支上文件的不同
-git commit 							提交缓存区修改到分支
-git push 							推送到远程库
-git log --pretty=oneline -n 		查看提交历史版本
-git reflog 							查看历史命令
-git checkout --file 				使用缓存区版本替换工作区版本/撤销工作区修改
-git reset HEAD file 				使用分支版本替换缓存区版本/撤销缓存区修改
-git reset --hard commitId/HEAD^ 	回退到某一版本/撤销分支修改
+ssh-keygen -t rsa -C "youremail@example.com"		创建SSH Key
+git config 											配置
+git init 											初始化工作区
+git clone 											克隆远程库到本地工作区
+git pull 											从远程库拉取并更新工作区
+git status 											查看状态
+git add . 											将工作区修改添加到缓存区
+git diff filename 									比较工作区与缓存区文件的不同之处
+git diff --cached filename 							比较缓存区与提交分支上文件的不同
+git diff  HEAD -- filename 							比较工作区与提交分支上文件的不同
+git commit 											提交缓存区修改到分支
+git push 											推送到远程库
+git log --pretty=oneline -n 						查看提交历史版本
+git reflog 											查看历史命令
+git checkout --file 								使用缓存区版本替换工作区版本/撤销工作区修改
+git reset HEAD file 								使用分支版本替换缓存区版本/撤销缓存区修改
+git reset --hard commitId/HEAD^ 					回退到某一版本/撤销分支修改
