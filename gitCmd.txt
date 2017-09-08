@@ -9,3 +9,4 @@ git push
 git log --pretty=oneline -n
 git reflog
 git reset --hard commitId/HEAD^
+123
